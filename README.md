@@ -20,7 +20,7 @@
 Vue2語法 + Vite環境 + Vue-Router(簡單配置) + Axios(簡單串接) + Element-Plus
 
 <br/>
-##完成畫面(沒有RWD)
+## 完成畫面(沒有RWD)
 <img src="https://github.com/yes66395/testjson/blob/main/Untitled.png?raw=true" />
 
 <br/>
