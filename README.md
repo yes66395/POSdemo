@@ -16,17 +16,17 @@
 分類商品 :https://yes66395.github.io/POSdemo/sortfood.json
 
 ## 用到的技術
-<br/>
+
 Vue2語法 + Vite環境 + Vue-Router(簡單配置) + Axios(簡單串接) + Element-Plus
 
 <br/>
 ## 完成畫面(沒有RWD)
 <img src="https://github.com/yes66395/testjson/blob/main/Untitled.png?raw=true" />
 
-<br/>
+
+
 ##  你可以學到的知識點
 
-<br/>
 
 1. v-for雙重嵌套 以及v-for一層嵌套
 2. axios的使用(可以試著進行二次封裝)
