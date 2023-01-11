@@ -52,7 +52,16 @@ Vue2語法 + Vite環境 + Vue-Router(簡單配置) + Axios(簡單串接) + Eleme
 
 ## 安裝步驟
 ```
+git clone https://github.com/yes66395/POSdemo.git //把這個項目複製下來
 
+cd 到這個項目的資料夾 
+
+npm install //安裝該項目需要套件
+
+//開啟服務
+npm run dev 
+
+```
 
 
 
