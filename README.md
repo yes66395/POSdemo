@@ -15,16 +15,16 @@
 一般商品:https://yes66395.github.io/POSdemo/commonfood.json  <br/>
 分類商品 :https://yes66395.github.io/POSdemo/sortfood.json
 
-用到的技術
+## 用到的技術
 <br/>
 Vue2語法 + Vite環境 + Vue-Router(簡單配置) + Axios(簡單串接) + Element-Plus
 
 <br/>
-完成畫面(沒有RWD)
+##完成畫面(沒有RWD)
 <img src="https://github.com/yes66395/testjson/blob/main/Untitled.png?raw=true" />
 
 <br/>
-你可以學到的知識點
+## 你可以學到的知識點
 
 <br/>
 
@@ -39,7 +39,7 @@ Vue2語法 + Vite環境 + Vue-Router(簡單配置) + Axios(簡單串接) + Eleme
 
 <br/>
 
-功能的說明
+## 功能的說明
 
 <br/>
 1. 新增商品，直接點擊右邊的標籤，或是下面的分類商品的圖案，就可以新增 。 <br/>
@@ -49,6 +49,9 @@ Vue2語法 + Vite環境 + Vue-Router(簡單配置) + Axios(簡單串接) + Eleme
 5. 送出單子，當沒有商品，會貼出警語。 <br/>
 6. 變成單子，自動計算數量以及總金額。 <br/>
 7. 結帳，這裡只是簡單模擬結帳情況，結帳之後，這個單子就會不見(代表說客人已經付錢了)。 <br/>
+
+## 安裝步驟
+```
 
 
 
