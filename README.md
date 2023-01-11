@@ -9,11 +9,11 @@
 <hr/>
 特別適合從原生JS->轉換Vue的新手
 <br/>
-初始網址 https://yes66395.github.io/POSdemo/
+初始網址 https://yes66395.github.io/POSData/
 <br/>
 速食資料
-一般商品:https://yes66395.github.io/POSdemo/commonfood.json  <br/>
-分類商品 :https://yes66395.github.io/POSdemo/sortfood.json
+一般商品:https://yes66395.github.io/POSData/commonfood.json  <br/>
+分類商品 :https://yes66395.github.io/POSData/sortfood.json
 
 ## 用到的技術
 
@@ -50,6 +50,12 @@ Vue2語法 + Vite環境 + Vue-Router(簡單配置) + Axios(簡單串接) + Eleme
 5. 送出單子，當沒有商品，會貼出警語。 <br/>
 6. 變成單子，自動計算數量以及總金額。 <br/>
 7. 結帳，這裡只是簡單模擬結帳情況，結帳之後，這個單子就會不見(代表說客人已經付錢了)。 <br/>
+
+
+資料有誤 
+
+請在src / data /data.js 第四行，幫我改成 : https://yes66395.github.io/POSData/
+
 
 ## 安裝步驟
 ```
