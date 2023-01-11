@@ -1,0 +1,137 @@
+.pos {
+    text-align: center;
+}
+
+.el-col-17 {
+    background-color: #ddd;
+}
+
+.el-tabs {
+    text-align: center;
+}
+
+.btn-box {
+    display: flex;
+}
+
+.function-button {
+    margin-top: 10px;
+    margin-right: 8px;
+}
+
+.title {
+    height: 20px;
+    border-bottom: 1px solid #d3dce6;
+    background-color: #f9fafc;
+    padding: 10px;
+    text-align: left;
+}
+
+.order-list {
+    background-color: rgba(204, 204, 204, 0.8);
+    padding: 30px;
+    border-bottom: 2px solid #000;
+}
+
+.order-list ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.order-list li {
+    padding: 10px;
+    border: 1px solid #e5e9f2;
+    margin: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.order-list li:active,
+.order-list li:hover {
+    background-color: rgb(244, 161, 8);
+    color: #fff;
+}
+
+.o-price {
+    color: #58b7ff;
+}
+
+.cookList {
+    display: flex;
+    flex-wrap: wrap;
+    cursor: pointer;
+}
+
+.cookList li {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.store-price {
+    display: block;
+    margin-top: 8px;
+}
+
+.total-div {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    margin-top: 8px;
+}
+
+img {
+    width: 50%;
+    mix-blend-mode: multiply;
+}
+
+.newcase-container {
+    background-color: pink;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 0;
+}
+
+.newcase-list-container {
+    width: inherit;
+    border-radius: 5px;
+    border: 2px solid #ccc;
+    margin-bottom: 8px;
+}
+
+.newcase-list-container:nth-child(1) {
+    border-top: none;
+}
+
+.newcase-list-container .newcase-list {
+    padding: 3px;
+}
+
+.newcase-list-container .newcase-list li {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 3px 0;
+}
+
+.newcase-list-container .newcase-list span {
+    flex: 2;
+}
+
+.newcase-list-container .newcase-list span+span {
+    transform: translateX(15px);
+}
+
+.case-coculator {
+    display: flex;
+    justify-content: space-around;
+    border-top: 2px solid #ccc;
+    margin: 8px 0;
+    padding: 3px;
+    font-size: 22px;
+}
