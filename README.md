@@ -1,5 +1,5 @@
 # 速食店POS機點餐demo SPA
-注意這不是真的POS機點餐的實際情況
+注意這不是真的POS機點餐的實際情況，也不可能完整實現POS的所有功能
 <br/>來源: <a href="https://www.bilibili.com/video/BV1Zb411T775/?spm_id_from=333.999.0.0">這個</a>
 
 <br/>
