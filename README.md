@@ -33,10 +33,11 @@ Vue2語法 + Vite環境 + Vue-Router(簡單配置) + Axios(簡單串接) + Eleme
 2. axios的使用(可以試著進行二次封裝)
 3. Element-plus在vite.config.js的配置使用。
 4. Vue-Router的基礎使用(配置)。
-5. created，生命週期函數，資料直接出現。
-6. 從原生JavaScript ->不操作DOM->只操作資料，驅動畫面，這邊需要一點時間適應
-7. 利用computed自動計算。
-8. 學會簡單使用Component。
+5. 生命週期函數，資料直接出現。
+6. 從原生JavaScript(不斷的操作DOM)->不操作DOM->體驗只操作資料和驅動畫面的威力，但需要一點時間去適應。
+7. 利用methods，把方法寫在裡面。
+8. 利用computed自動計算。
+9. 學會簡單使用Component。
 
 <br/>
 
@@ -51,6 +52,8 @@ Vue2語法 + Vite環境 + Vue-Router(簡單配置) + Axios(簡單串接) + Eleme
 6. 變成單子，自動計算數量以及總金額。 <br/>
 7. 結帳，這裡只是簡單模擬結帳情況，結帳之後，這個單子就會不見(代表說客人已經付錢了)。 <br/>
 
+<br/>
+<hr>
 
 資料有誤 
 
