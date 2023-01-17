@@ -17,8 +17,11 @@
 
 ## 用到的技術
 
-Vue2語法 + Vite環境 + Vue-Router(簡單配置) + Axios(簡單串接) + Element-Plus
-
+1. Vue2語法 
+2. Vite搭建Vue環境
+3. Vue-Router 簡單配置
+4. Axios 串接資料
+5. 使用UI元件庫 Element-Plus
 
 ## 完成畫面(沒有RWD)
 
