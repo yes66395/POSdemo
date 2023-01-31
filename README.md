@@ -2,9 +2,7 @@
 注意這不是真的POS機點餐的實際情況，也不可能完整實現POS的所有功能
 <br/>來源: <a href="https://www.bilibili.com/video/BV1Zb411T775/?spm_id_from=333.999.0.0">這個</a>
 
-<br/>
-
-底下是POS速食資料 (練手的小項目) 
+底下是POS速食資料 (練手的小項目) (資料照著來源的影片寫的)
 <br/>
 <hr/>
 特別適合從原生JS->轉換Vue的新手
