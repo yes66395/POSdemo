@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const instance = axios.create({
-	baseURL: 'https://yes66395.github.io/POSdemo',
+	baseURL: 'https://yes66395.github.io/POSData/',
 	timeout: 1000,
 });
 
