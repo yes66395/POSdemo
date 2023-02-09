@@ -15,7 +15,7 @@
 
 ## 用到的技術
 
-1. Vue2語法 
+1. Vue2X語法 (目前還是用到Vue2X的語法，但是是Vue3X的環境)
 2. Vite搭建Vue環境
 3. Vue-Router 簡單配置
 4. Axios 串接資料
