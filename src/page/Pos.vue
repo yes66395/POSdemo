@@ -175,12 +175,14 @@ export default {
 		addOrderList(food) {
 			//商品是否已經存在於下列訂單列表中
 			let isHave = false;
-			for (let i = 0; i < this.tableData.length; i++) {
-				if (this.tableData[i].id === food.id) {
-					isHave = true;
-					break;
-				}
-			}
+			const findData = this.tableData.findIndex((item,index)=> item.id === food.id)
+			if(findData > -1) return true;
+			//for (let i = 0; i < this.tableData.length; i++) {
+				//if (this.tableData[i].id === food.id) {
+					//isHave = true;
+					//break;
+				//}
+			//}
 			//根據判斷的值編寫此邏輯
 			// if (isHave) {
 			// 	//改變列表中商品數量
